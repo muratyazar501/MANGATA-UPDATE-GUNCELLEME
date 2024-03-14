@@ -42,9 +42,11 @@ chmod +x run.sh
 ```
 nano .env
 ```
+
 ```
 ./run.sh opt-in
 ```
+
 👉Not: eğer hata alırsanız  sebebi minimum 1 eth stake etmediğinizden zaten yazıorda
 
 ![image](https://github.com/Core-Node-Team/Testnet-TR/assets/91562185/c1367294-dbda-4eae-938c-eeb0182b0514)
@@ -52,6 +54,7 @@ nano .env
 ```
 docker compose up -d
 ```
+
 ```
 docker logs -f --tail 100 avs-finalizer-node
 ```
