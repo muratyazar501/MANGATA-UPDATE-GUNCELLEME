@@ -47,9 +47,10 @@ nano .env
 ./run.sh opt-in
 ```
 
-👉Not: eğer hata alırsanız  sebebi minimum 1 eth stake etmediğinizden zaten yazıorda
+👉Not: eğer hata alırsanız  sebebi minimum 1 eth stake etmediğinizden görselde de bu uyarı mevcut
 
-![image](https://github.com/Core-Node-Team/Testnet-TR/assets/91562185/c1367294-dbda-4eae-938c-eeb0182b0514)
+![image](https://github.com/muratyazar501/MANGATA-UPDATE-GUNCELLEME/assets/136369047/5c218653-1008-4cd8-b253-1a62e08a0c23)
+
 
 ```
 docker compose up -d
