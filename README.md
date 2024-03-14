@@ -67,6 +67,12 @@ nano .env
 docker compose up -d
 ```
 
+
+```
+docker container restart avs-finalizer-node
+```
+
+
 ```
 docker logs -f --tail 100 avs-finalizer-node
 ```
