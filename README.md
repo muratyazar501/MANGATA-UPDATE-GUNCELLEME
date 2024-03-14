@@ -28,19 +28,27 @@ mv /root/avs-operator-setup/.env /root/.env
 ```
 git reset --hard
 ```
+
+
 ```
 git fetch
 ```
 
+
+```
 docker compose pull
 ```
 Not: .env dosyasını bilgisayarda olan bilgileri girerek kaydet(env dosyası değişmiş)
+
+
 ```
 chmod +x run.sh
 ```
 
 
 08 nolu kod:bu kodda yedek aldığınız env dosyası bilgileriniz girilecek(wallet ismini yazmayı ve şirfrenizi girmeyi unutmayın)
+
+
 ```
 nano .env
 ```
