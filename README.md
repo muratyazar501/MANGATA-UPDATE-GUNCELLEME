@@ -19,6 +19,8 @@ cd avs-operator-setup
 ```
 docker compose down
 ```
+
+
 👉NOT: .env dosyasını bilgisayara yedekle ve 08 nolu kodda yedeklediğiniğiz bilgilerinizi giriniz (bilgileri kullanacağız dosyayı değil dosya yolu : /root/avs-operator-setup/.env)
 ```
 mv /root/avs-operator-setup/.env /root/.env
@@ -48,6 +50,7 @@ nano .env
 ```
 
 👉Not: eğer hata alırsanız  sebebi minimum 1 eth stake etmediğinizden görselde de bu uyarı mevcut
+
 
 ![image](https://github.com/muratyazar501/MANGATA-UPDATE-GUNCELLEME/assets/136369047/5c218653-1008-4cd8-b253-1a62e08a0c23)
 
