@@ -1,5 +1,17 @@
 # MANGATA-UPDATE-GUNCELLEME
 
+![image](https://github.com/muratyazar501/MANGATA-UPDATE-GUNCELLEME/assets/136369047/0734ac15-4038-4a13-9f68-4888c29eb916)
+
+### Linkler
+
+https://github.com/Volkan081
+
+https://github.com/muratyazar501
+
+https://twitter.com/BerraVolkan
+
+
+
 
 ```
 cd avs-operator-setup
@@ -7,7 +19,7 @@ cd avs-operator-setup
 ```
 docker compose down
 ```
-👉NOT: .env dosyasını bilgisayara yedekle (bilgileri kullanacağız dosyayı değil dosya yolu : /root/avs-operator-setup/.env)
+👉NOT: .env dosyasını bilgisayara yedekle ve  (bilgileri kullanacağız dosyayı değil dosya yolu : /root/avs-operator-setup/.env)
 ```
 mv /root/avs-operator-setup/.env /root/.env
 ```
@@ -27,6 +39,9 @@ Not: .env dosyasını bilgisayarda olan bilgileri girerek kaydet(env dosyası de
 ```
 chmod +x run.sh
 ```
+
+
+08 nolu kod:bu kodda yedek aldığınız env dosyası bilgileriniz girilecek(wallet ismini yazmayı ve şirfrenizi girmeyi unutmayın)
 ```
 nano .env
 ```
