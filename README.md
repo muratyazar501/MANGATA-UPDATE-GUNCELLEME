@@ -29,10 +29,7 @@ git reset --hard
 ```
 git fetch
 ```
-```
-git checkout tags/v0.2 -b v0.2
-```
-```
+
 docker compose pull
 ```
 Not: .env dosyasını bilgisayarda olan bilgileri girerek kaydet(env dosyası değişmiş)
