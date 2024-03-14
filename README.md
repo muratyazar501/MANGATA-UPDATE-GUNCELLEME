@@ -19,7 +19,7 @@ cd avs-operator-setup
 ```
 docker compose down
 ```
-👉NOT: .env dosyasını bilgisayara yedekle ve  (bilgileri kullanacağız dosyayı değil dosya yolu : /root/avs-operator-setup/.env)
+👉NOT: .env dosyasını bilgisayara yedekle ve 08 nolu kodda yedeklediğiniğiz bilgilerinizi giriniz (bilgileri kullanacağız dosyayı değil dosya yolu : /root/avs-operator-setup/.env)
 ```
 mv /root/avs-operator-setup/.env /root/.env
 ```
